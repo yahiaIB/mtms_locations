@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "11279647639",
+    "project_id": "mtms-8f2f9",
+    "storage_bucket": "mtms-8f2f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11279647639:android:db19bdbb105676c31e7ad2",
+        "android_client_info": {
+          "package_name": "com.mtms.locations"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11279647639-j509bueng67o1tc520rlk94ftgccpd95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEaB5MMqLdGIpTnJJh6Fx7SLpIm9P6TOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11279647639-j509bueng67o1tc520rlk94ftgccpd95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
